@@ -27,5 +27,5 @@ The current EMC Server solution is a console application that requires the opera
 		o	UI design
 	•	User Datagram Protocol (UDP)
 
-### Approach, Goals, and Experience:###
+### Approach, Goals, and Experience:
 I will create an application that allows the user to interact with the EMC server by sending commands and receiving data. Communication between the client and server will be done using UDP datagram packets. In the application, the user will be able to choose startup settings and start and stop data collection using the application’s GUI. Data received from the EMC server will be displayed to the user in the application and will include data collected from both the EMC server and the MC. The software will work on both Linux and Windows operating systems.
