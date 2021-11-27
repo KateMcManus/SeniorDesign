@@ -18,9 +18,9 @@ The current EMC Server solution is a console application that requires the opera
 
 •	Qt Creator
 
-	oCross platform development 
+o Cross platform development 
 	
-	oUI design
+o UI design
 	
 •	User Datagram Protocol (UDP)
 
