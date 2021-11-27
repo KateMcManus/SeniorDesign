@@ -8,7 +8,9 @@ Researchers at NAMRU-Dayton want to connect to the EMC server through a client t
 The current EMC Server solution is a console application that requires the operator to remotely shell into the server via SSH terminal and manually run the EMC Server app as well as interact with it in the terminal window directly. The current app is not cohesive with the flow of operations for External Motion Control based research runs.
 
 # Background Skills and Interest:
+
 •	C++/C#
+
 •	Python
 •	Windows
 •	Linux
