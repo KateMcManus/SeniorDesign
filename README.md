@@ -1,14 +1,14 @@
 # Table of Contents
 
-##1.) Team Names and Abstract
+## 1.) Team Names and Abstract
 
-	### Team Member:
- 	* Kate McManus mcmanukn@mail.uc.edu
+### Team Member:
+ * Kate McManus mcmanukn@mail.uc.edu
 
-	### Faculty Advisor:
-	Dr. John Christopher Gallagher
+### Faculty Advisor:
+Dr. John Christopher Gallagher
 
-##2.) Project Description:
+## 2.) Project Description:
 NAMRU-Dayton currently has a motion system (MC) that can be controlled externally using an external motion control (EMC). Data for the pitch, roll, yaw, heave, planetary, and horizontal positions of the MC are sent to the EMC server. Motion commands are sent from the EMC to the MC. The goal of this project is to create software that simultaneously displays both sets of data in a single application, while also allowing the user to connect to the EMC server and send commands. 
 
 ### Problem Statement:
