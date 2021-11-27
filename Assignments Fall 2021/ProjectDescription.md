@@ -17,10 +17,8 @@ The current EMC Server solution is a console application that requires the opera
 •	Linux
 
 •	Qt Creator
-
-oCross platform development 
-	
-oUI design
+	oCross platform development 
+	oUI design
 	
 •	User Datagram Protocol (UDP)
 
