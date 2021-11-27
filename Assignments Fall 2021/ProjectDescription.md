@@ -12,7 +12,7 @@ The current EMC Server solution is a console application that requires the opera
 •	Python
 •	Windows
 •	Linux
-•	Qt Creator 
+•	Qt Creator
 	o	Cross platform development 
 	o	UI design
 •	User Datagram Protocol (UDP)
