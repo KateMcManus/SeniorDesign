@@ -10,13 +10,18 @@ The current EMC Server solution is a console application that requires the opera
 # Background Skills and Interest:
 
 •	C++/C#
-
 •	Python
+
 •	Windows
+
 •	Linux
+
 •	Qt Creator
-	o	Cross platform development 
-	o	UI design
+
+oCross platform development 
+	
+oUI design
+	
 •	User Datagram Protocol (UDP)
 
 # Approach, Goals, and Experience:
