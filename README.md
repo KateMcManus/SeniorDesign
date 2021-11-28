@@ -16,4 +16,4 @@ Dr. John Christopher Gallagher
 	[Task List](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Task_list.md)
 	[Timeline](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Timeline.md)
     [Milestones](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Milestones.md)
-    [Effort Matrix]
+    [Effort Matrix](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/EffortMatrix.png)
