@@ -4,6 +4,7 @@
 mcmanukn@mail.uc.edu
 
 **Co-op and Work Experience**
+
     •	Software Engineer, Naval Medical Research Unit – Dayton, WPAFB, Ohio. (2020 - Current)
 	
         o	Wrote software to display prompts to and gather data from test subjects
