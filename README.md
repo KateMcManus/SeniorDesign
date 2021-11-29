@@ -22,3 +22,5 @@ Dr. John Christopher Gallagher
 [Effort Matrix](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/EffortMatrix.png)
 
 ## 5.) [Powerpoint](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Senior%20Project%20Powerpoint.pptx)
+
+## 6.) 
