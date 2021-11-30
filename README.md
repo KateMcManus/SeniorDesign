@@ -28,3 +28,5 @@ Dr. John Christopher Gallagher
 ## 7.) [Professional Bio](https://github.com/KateMcManus/SeniorDesign/blob/master/McManus_Professional_Bio.md)
 
 ## 8.) [Budget](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Budget.md)
+
+## 9.) [Appendix]
