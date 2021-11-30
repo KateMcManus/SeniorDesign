@@ -31,4 +31,5 @@ Dr. John Christopher Gallagher
 
 ## 9.) Appendix
 [Project Hours](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/ProjectHours.md)
+
 [Code Repository](https://github.com/KateMcManus/EMCGUI)
