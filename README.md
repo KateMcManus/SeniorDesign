@@ -23,7 +23,7 @@ Dr. John Christopher Gallagher
 
 ## 5.) [Powerpoint](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Senior%20Project%20Powerpoint.pptx)
 
-## 6.) Self-Assesment
+## 6.) [Self-Assesment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Individual%20Capstone%20Assessment.docx)
 
 ## 7.) [Professional Bio](https://github.com/KateMcManus/SeniorDesign/blob/master/McManus_Professional_Bio.md)
 
