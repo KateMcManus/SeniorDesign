@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EMCSettings</class>
+ <widget class="QDialog" name="EMCSettings">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>EMC Settings</string>
+  </property>
+  <widget class="QGroupBox" name="grpPitchSettings">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>121</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Pitch Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Pitch">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPosition_Pitch">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoVelocity_Pitch">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Velocity</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="grpRollSettings">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>140</y>
+     <width>121</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Roll Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Roll">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPosition_Roll">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoVelocity_Roll">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Velocity</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="grpYawSettings">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>270</y>
+     <width>121</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Yaw Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Yaw">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPostion_Yaw">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoVelocity_Yaw">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Velocity</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="grpPitchSettings_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string> Horizontal Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Horiz">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPosition_Horiz">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="grpPitchSettings_3">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>140</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Heave Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Heave">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPosition_Heave">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="grpPitchSettings_4">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>270</y>
+     <width>121</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Planetary Motion Type</string>
+   </property>
+   <widget class="QRadioButton" name="rdoNoMotion_Plan">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>No Motion</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoPosition_Plan">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Position</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="rdoVelocity_Plan">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>84</width>
+      <height>19</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Velocity</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="btnSettingsConfirm">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>400</y>
+     <width>80</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Confirm</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>400</y>
+     <width>80</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Use Default</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
