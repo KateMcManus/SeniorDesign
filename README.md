@@ -12,20 +12,17 @@ Dr. John Christopher Gallagher
 
 ## 3.) [Test Plan and Results](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Test%20Plan.pdf)
 
-## 4.) [User Manual] (https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/EMCGUI%20User%20Guide.pdf)
+## 4.) [User Manual](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/EMCGUI%20User%20Guide.pdf)
 
 ## 5.) [Powerpoint](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Final%20Presentation.pptx)
 
-## 6.) Self-Assesments
+## 6.) [Poster](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/EMCGUI%20Poster.pdf)
+
+## 7.) Self-Assesments
 [Initial Assesment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Individual%20Capstone%20Assessment.docx)
 
 [Final Assessment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Self%20Assessment.pdf)
 
-## 7.) [Professional Bio](https://github.com/KateMcManus/SeniorDesign/blob/master/McManus_Professional_Bio.md)
+## 8.) [Project Hours](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/ProjectHours.md)
 
-## 8.) [Budget](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Budget.md)
 
-## 9.) Appendix
-[Project Hours](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/ProjectHours.md)
-
-[Code Repository](https://github.com/KateMcManus/EMCGUI)
