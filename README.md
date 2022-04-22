@@ -1,6 +1,6 @@
 # Table of Contents
 
-## 1.) Team Names and [Abstract](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Abstract.md)
+## 1.) Team Names and [Abstract](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Abstract.md)
 
 ### Team Member:
  * Kate McManus mcmanukn@mail.uc.edu
@@ -8,22 +8,18 @@
 ### Faculty Advisor:
 Dr. John Christopher Gallagher
 
-## 2.) [Project Description](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/ProjectDescription.md)
+## 2.) [UI Specification](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/UI%20Specifications.pdf)
 
-## 3.) [User Stories](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/User_Stories.md) and [Design Diagrams](https://github.com/KateMcManus/SeniorDesign/tree/master/Assignments%20Fall%202021/Design%20Documents)
+## 3.) [Test Plan and Results](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Test%20Plan.pdf)
 
-## 4.) Tasks and Timeline
-[Task List](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Task_list.md)
+## 4.) [User Manual] (https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/EMCGUI%20User%20Guide.pdf)
 
-[Timeline](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Timeline.md)
+## 5.) [Powerpoint](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Final%20Presentation.pptx)
 
-[Milestones](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Milestones.md)
+## 6.) Self-Assesments
+[Initial Assesment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Individual%20Capstone%20Assessment.docx)
 
-[Effort Matrix](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/EffortMatrix.png)
-
-## 5.) [Powerpoint](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Senior%20Project%20Powerpoint.pptx)
-
-## 6.) [Self-Assesment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Fall%202021/Individual%20Capstone%20Assessment.docx)
+[Final Assessment](https://github.com/KateMcManus/SeniorDesign/blob/master/Assignments%20Spring%202022/Self%20Assessment.pdf)
 
 ## 7.) [Professional Bio](https://github.com/KateMcManus/SeniorDesign/blob/master/McManus_Professional_Bio.md)
 
